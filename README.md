@@ -1,4 +1,5 @@
 Boilerplate that I use for all my NextJs projects going forward.
+
 Bun - SO FAST
 NextJs - Frontend
 Clerk - Auth
