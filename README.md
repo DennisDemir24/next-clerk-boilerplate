@@ -4,6 +4,10 @@ Bun - SO FAST
 
 NextJs - Frontend
 
+ShadcnUI - UI Components
+
+TailwindCSS - Styling
+
 Clerk - Auth
 
 
